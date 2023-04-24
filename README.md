@@ -1,3 +1,6 @@
+# XOA Backups Template (Iten Tecnologia)
+
+Configura monitoramento de backups do XOA com Zabbix
 
 ## Instalação
 
